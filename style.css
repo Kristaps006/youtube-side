@@ -1,0 +1,11 @@
+svg {
+    fill: goldenrod;
+    width:50px;
+    height:50px;
+}
+
+svg:hover {
+    fill:green;
+    width:70px;
+    height:70px;
+}
